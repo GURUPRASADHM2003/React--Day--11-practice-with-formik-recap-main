@@ -5,7 +5,7 @@ import "../css/Header.css"; // Import your custom CSS file
 
 const Header = () => {
   return (
-    <header className="bg-primary text-white text-center py-3">
+    <header className="bg-red text-white text-center py-3">
       <div className="container">
         <nav className="navbar navbar-expand-lg navbar-dark">
          <h4>Gucci Library  </h4>
